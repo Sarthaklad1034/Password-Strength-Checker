@@ -1,7 +1,7 @@
 # Password Strength Checker
 
 A Python-based password strength checker utilizing the custom Tkinter library ensures enhanced security by evaluating and providing suggestions to improve password strength.
-<br>It offers visibility toggling when typing, alerts about commonly hacked passwords, and even notifications if key pieces such as a combination of letters, numbers and symbols are missing.
+It offers visibility toggling when typing, alerts about commonly hacked passwords, and even notifications if key pieces such as a combination of letters, numbers and symbols are missing.
 
 ![Website preview 1](images/preview1.jpg)
 
