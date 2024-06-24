@@ -5,12 +5,6 @@ A Python-based password strength checker utilizing the custom Tkinter library en
 
 ![Website preview 1](images/preview1.jpg)
 
-## Programming Language 
-- Python 3
-
-## Tech Stack 
-- Custom Tkinter
-
 ## Development Tools 
 - PyCharm
 - PyInstaller
