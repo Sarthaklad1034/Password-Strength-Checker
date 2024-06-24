@@ -5,10 +5,6 @@ A Python-based password strength checker utilizing the custom Tkinter library en
 
 ![Website preview 1](images/preview1.jpg)
 
-## Development Tools 
-- PyCharm
-- PyInstaller
-
 ## Features 
 - Assess strength of your password with color coded meter
     - 🟥 Weak = Red color 
