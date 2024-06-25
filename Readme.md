@@ -41,7 +41,7 @@ git clone https://github.com/Sarthaklad1034/Password-Strength-Checker.git
 
 2. Open the project in your preferred code editor.
 
-3. Launch the `main.py` file using running and debugging.
+3. Launch the `passwordStrengthChecker.py` file using running and debugging.
 
 4. Feel free to modify the code and customize the page according to your preferences. You can update the content, change the colors, or add new features.
 
@@ -62,4 +62,4 @@ If you have any questions, suggestions, or feedback, you can reach out to the pr
 
 ---
 
-Enjoy exploring the code and creating your own weather broadcast website!
+Enjoy exploring the code and creating your own Password Strength Checker!
