@@ -171,12 +171,16 @@ class PasswordStrengthChecker:
         # Displaying strength of password based on its strength number 'status' in different colors.
         if status==0:
             self.passwordStrength.configure(text=strength[status], text_color="#FA8072")
+             self.passwordEntry.configure(border_color="#FA8072")
         elif status==1:
             self.passwordStrength.configure(text=strength[status], text_color="#FF8C00")
+            self.passwordEntry.configure(border_color="#FF8C00")
         elif status==2:
             self.passwordStrength.configure(text=strength[status], text_color="#00FFEF")
+            self.passwordEntry.configure(border_color="#00FFEF")
         elif status==3:
             self.passwordStrength.configure(text=strength[status], text_color="#39FF14")
+            self.passwordEntry.configure(border_color="#39FF14")
 
         # Before displaying the issues in the user password, delete all previously created widgets within the frame 'frame1'
         for widgets in self.frame1.winfo_children():
